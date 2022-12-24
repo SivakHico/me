@@ -1,60 +1,58 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: 'React Reserve',
+    subtitle: 'MERN Stack',
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
+    image: './project-1.gif',
+    link: 'https://reactbootcamp.com',
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: 'Open AI codeX',
+    subtitle: 'Vanilla JS',
     description:
-      "Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      'With an elegant user interface that resembles the ChatGPT app, communication with advanced GPT3 model API',
+    image: './project-2.gif',
+    link: 'https://think-again.netlify.app',
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    title: 'JavaScript Alarm Clock',
+    subtitle: 'javascript',
+    description: 'Native JavaScript Alarm Clock with a simple UI',
+    image: './project-3.gif',
+    link: 'https://alarmy.w3spaces.com/home.html',
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    title: 'ToDO List App',
+    subtitle: 'React Hooks',
+    description: 'React Hooks ToDO List App',
+    image: './project-4.gif',
+    link: 'https://me-to-do.netlify.app/',
   },
-];
+]
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
+    image: 'https://randomuser.me/api/portraits/men/1.jpg',
+    name: 'Jesse Hicks',
+    company: 'Zoozle',
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
+    image: 'https://randomuser.me/api/portraits/men/94.jpg',
+    name: 'Ruben Alvarez',
+    company: 'Dooble.io',
   },
-];
+]
 
 export const skills = [
-  "JavaScript_TypeScript",
+  'JavaScript_TypeScript',
   "React JS_Vite API's(Restful)",
-  "Git_GitHub",
-  "NodeJS(Express)",
-  "MongoDB",
-  "UX_UI Design",
-];
+  'Git_GitHub',
+  'NodeJS(Express)',
+  'MongoDB',
+  'UX_UI Design',
+]

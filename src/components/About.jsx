@@ -9,7 +9,8 @@ export default function About() {
             Sivak Hico
           </h1>
           <h3 className="title-font sm:text-2xl text-xl mb-4 font-medium text-white">Full Stack Web Developer</h3>
-          <p className="mb-8 leading-relaxed">I love to build amazing apps.</p>
+          <p className="mb-1 leading-relaxed">I love to build amazing apps.</p>
+          <p className='mb-10'><a href="https://github.com/SivakHico" target='_blank'>GitHub</a>&emsp;<a href="https://www.linkedin.com/in/sivak-hico" target='_blank'>Linkedin</a></p>
           <div className="flex justify-center">
             <a
               href="#contact"
