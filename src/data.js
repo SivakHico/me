@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'React Reserve',
-    subtitle: 'MERN Stack',
+    title: 'E-Commerce App',
+    subtitle: 'MEAN Stack', 
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?',
+      'React, Vue, Angular, Node, Express, MongoDB, Firebase, Gatsby, Next, etc.',
     image: './project-1.gif',
-    link: 'https://reactbootcamp.com',
+    link: 'https://be-shop.netlify.app',
   },
   {
     title: 'Open AI codeX',
