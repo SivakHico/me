@@ -7,9 +7,7 @@ export default function Testimonials() {
     <section id="testimonials">
       <div className="container px-5 py-10 mx-auto text-center">
         <UsersIcon className="w-10 inline-block mb-4" />
-        <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
-          Client Testimonials
-        </h1>
+        <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">Testimonials</h1>
         <div className="flex flex-wrap m-4">
           {testimonials.map((testimonial) => (
             <div className="p-4 md:w-1/2 w-full">
@@ -25,6 +23,9 @@ export default function Testimonials() {
                   <span className="flex-grow flex flex-col pl-4">
                     <span className="title-font font-medium text-white">
                       {testimonial.name}
+                    </span>
+                    <span className="title-font font-medium text-white">
+                      {testimonial.des}
                     </span>
                     <span className="text-gray-500 text-sm uppercase">
                       {testimonial.company}

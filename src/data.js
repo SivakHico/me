@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'E-Commerce App',
-    subtitle: 'MEAN Stack', 
+    subtitle: 'MEAN Stack',
     description:
       'React, Vue, Angular, Node, Express, MongoDB, Firebase, Gatsby, Next, etc.',
     image: './project-1.gif',
@@ -34,17 +34,19 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
-    image: 'https://randomuser.me/api/portraits/men/1.jpg',
-    name: 'Jesse Hicks',
-    company: 'Zoozle',
+      'Herr Hico interessierte sich in hochstem Maße fur alle praktischen Lernmoglichkeiten und war stets sehr gut motiviert. Er verfugt uber eine gute Auffassungsgabe. Herr Hico kam auch mit schwierigen Aufgaben jedes Mal gut zurecht. Dank seiner guten Auffassungsgabe und seines Einsatzes hat er sich in kurzer Zeit gute praktische Kenntnisse angeeignet.',
+    image: './man.jpg',
+    name: 'Sebastian Stach',
+    des: 'Team Lead Web-Development',
+    company: 'shopping24 GmbH',
   },
   {
     quote:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
-    image: 'https://randomuser.me/api/portraits/men/94.jpg',
-    name: 'Ruben Alvarez',
-    company: 'Dooble.io',
+      'Sivak was a conscientious and independent person who worked on the tasks assigned to him in a planned and systematic manner. In every respect, he made considerable use of the opportunities offered for his practical training. He has fully achieved the learning goals associated with his work in our company.',
+    image: './man.jpg',
+    name: 'Akram Demir',
+    des: 'Company Owner',
+    company: 'Comex Graphic Design',
   },
 ]
 
